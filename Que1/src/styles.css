@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+@import "@ng-select/ng-select/themes/material.theme.css";
+
+body {
+    background-color: #f0f0ff;
+}
+
+h2 {
+    border-top: double;
+    border-bottom: double;
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    font-size: 25px;
+}
+
+td {
+    padding-right: 100px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+label {
+    font-size: 25px;
+}
+
+ng-select {
+    font-size: 25px;
+}
